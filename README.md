@@ -10,7 +10,7 @@ This repository provides some codes to demonstrate several variants of Markov-Ch
 4. Delayed Rejection Adaptive Metropolis MCMC (DRAM-MCMC)
 
 Two samples are provided for demostrating MCMC simulations:
-1. Banana Function
-2. SIR pandemic model
+1. Banana Function (Please see markdowns in the .ipynb file for the function form)
+2. SIR pandemic model (Please see the markdowns in the .ipynb file for the model)
 
 Please check the comments in the codes for details.
